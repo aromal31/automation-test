@@ -14,7 +14,7 @@ This project contains automated test scripts developed using Selenium WebDriver 
 
 ## Prerequisites
 
-* Python 3.x installed
+* Python 3.12.5 installed
 * pip installed
 * Google Chrome browser
 
