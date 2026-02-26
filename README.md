@@ -21,7 +21,7 @@ This project contains automated test scripts developed using Selenium WebDriver 
 ## Setup Steps
 
 1. Clone the repository:
-   git clone https://github.com/your-username/automation-test.git
+   git clone https://github.com/aromal31/automation-test
 
 2. Navigate to project folder:
    cd automation-test
