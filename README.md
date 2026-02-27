@@ -35,5 +35,3 @@ pytest
 ## Limitations
 
 * Tests run only on Chrome browser
-* Internet connection required
-  
